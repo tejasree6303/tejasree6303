@@ -111,7 +111,7 @@ Currently pursuing my **Master of Science in Data Science** at Wichita State Uni
 ## 🤝 Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tejasreemukkapati@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejasreemukkapati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tejasreemukkapati](https://www.linkedin.com/in/teja-sree-mukkapati-65074428b/))
 
 ---
 
